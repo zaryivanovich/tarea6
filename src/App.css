@@ -1,0 +1,9 @@
+/* Estilo general para toda la app */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+/* Estilo para el botón cuando pasas el mouse por encima */
+button:hover {
+  opacity: 0.8;
+}
